@@ -1,6 +1,4 @@
 sudo apt-get install build-essential libgl1-mesa-dev
-
-// Mint - Ubuntu
 sudo apt-get install qtcreator
 
 // https://doc.qt.io/qt-5/linux.html
