@@ -1,0 +1,7 @@
+lspci
+
+// Installer le bureau KDE (Debian)
+apt install Kde-plasma-desktop
+
+// Voir la liste dispo (Debian)
+apt-cache search Kde
