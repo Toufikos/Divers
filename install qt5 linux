@@ -1,4 +1,4 @@
-sudo apt-get install build-essential libgl1-mesa-dev
+sudo apt-get install build-essential libgl1-mesa-dev //error cannot find -igl
 sudo apt-get install qtcreator
 
 // https://doc.qt.io/qt-5/linux.html
