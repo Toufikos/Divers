@@ -4,6 +4,6 @@ sudo apt-get install sdk // Etape 3
 
 // https://doc.qt.io/qt-5/linux.html 
 
-// https://download.qt.io/archive/qt/5.13/5.13.2/ // Etape 4 (Sinon : aucun kit trouvé)
+// https://download.qt.io/archive/qt/5.13/5.13.2/ // Etape 4 (Sinon : aucun kit trouvé). 5.13
 // Puis se rendre dans le dossier de l'app : 
 chmod +x App.run // Etape 5
