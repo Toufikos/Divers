@@ -1,0 +1,10 @@
+// Installation de Sqlite :
+
+//Etape 1
+// Debian
+sudo apt-get install sqlitebrowser 
+
+
+// Source : https://sqlitebrowser.org/dl/
+
+// Etape 2 (A suivre)
