@@ -1,7 +1,7 @@
 // https://www.qt.io/offline-installers (Linux/Windows) // Etape 1 ou
 // https://download.qt.io/official_releases/qt/5.14/5.14.0 // Etape 1
 
-// Puis se rendre dans le dossier de l'app pour le rendre exécutable (en commande de ligne avec sudo) : 
+// Puis se rendre dans le dossier de l'application pour le rendre exécutable (en commande de ligne avec sudo) : 
 chmod +x App.run // Etape 2
 
 sudo apt-get install build-essential libgl1-mesa-dev // Etape 3 (Sinon : error cannot find -igl)
