@@ -1,0 +1,5 @@
+// Donne les droits d'accès (App : nom de l'application).
+chmod +x App
+
+// Exécute l'application.
+./App
