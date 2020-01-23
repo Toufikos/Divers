@@ -4,11 +4,12 @@
 // Puis se rendre dans le dossier de l'application pour le rendre exécutable (en commande de ligne avec sudo) : 
 chmod +x App.run // Etape 2
 
-sudo apt-get install build-essential libgl1-mesa-dev // Etape 3 (Sinon : error cannot find -igl)
-sudo apt-get install qtcreator // Etape 4
-sudo apt-get install sdk // Etape 5
+sudo apt-get update // Etape 3
+sudo apt-get install build-essential libgl1-mesa-dev // Etape 4 (Sinon : error cannot find -igl)
+sudo apt-get install qtcreator // Etape 5
+sudo apt-get install sdk // Etape 6
 
-// https://download.qt.io/archive/qt/5.13/5.13.2/ // Etape 6 (Sinon : aucun kit trouvé). Changer selon version : 5.13
+// https://download.qt.io/archive/qt/5.13/5.13.2/ // Etape 7 (Sinon : aucun kit trouvé). Changer selon version : 5.13
 
 // https://doc.qt.io/qt-5/linux.html 
 
