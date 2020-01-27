@@ -5,7 +5,8 @@
 chmod +x App.run // Etape 2
 
 sudo apt-get update // Etape 3
-sudo apt-get install build-essential libgl1-mesa-dev // Etape 4 (Sinon : error cannot find -igl - SInon impossible d'exécuté ou compiler)
+sudo apt-get install build-essential libgl1-mesa-dev // Etape 4 (Sinon : error cannot find -igl - 
+                                                      //          Sinon impossible d'exécuté ou compiler)
 sudo apt-get install qtcreator // Etape 5
 sudo apt-get install sdk // Etape 6
 
