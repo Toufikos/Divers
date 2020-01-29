@@ -12,6 +12,8 @@ sudo apt-get install sdk // Etape 6
 
 // https://download.qt.io/archive/qt/5.13/5.13.2/ // Etape 7 (Sinon : aucun kit trouvé). Changer selon version : 5.13
 
+// SI erreur de file 'Makefile' has modification time' : installer Cmake à partir du Gestionnaire de logiciel.
+
 // https://doc.qt.io/qt-5/linux.html 
 
 *************************************
