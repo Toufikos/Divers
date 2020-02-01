@@ -6,18 +6,15 @@ chmod +x App.run // Etape 2
 
 sudo apt-get update // Etape 3
 sudo apt-get install build-essential libgl1-mesa-dev // Etape 4 (Sinon : error cannot find -igl - 
-                                                      //          Sinon impossible d'exécuté ou compiler)
+                                                      //          Sinon impossible de compiler)
 sudo apt-get install qtcreator // Etape 5
 sudo apt-get install sdk // Etape 6
 
 // https://download.qt.io/archive/qt/5.13/5.13.2/ // Etape 7 (Sinon : aucun kit trouvé). Changer selon version : 5.13
 
-// SI erreur de file 'Makefile' has modification time' : installer Cmake à partir du Gestionnaire de logiciel.
+// Si erreur de file 'Makefile' has modification time' : installer Cmake à partir du Gestionnaire de logiciel.
 
 // https://doc.qt.io/qt-5/linux.html 
 
 *************************************
 // Toute les versions de Qt : https://download.qt.io/archive/qt/
-
-
-// Contact : toufik@forgia.fr
