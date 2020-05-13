@@ -9,6 +9,6 @@ interrompre le lancement de grub :- "e" pour editer le fichier de demarrage
 
 - ctrl e pour redemarrer la session sans demarrer le deamon init,
 
-- puis ctrl x pour redemarrer.ensuite faire : mount -o remount, rw /
+- puis ctrl x (ou F10) pour redemarrer.ensuite faire : mount -o remount, rw /
 
 et  passwd pour mettre un nouveau passeword
