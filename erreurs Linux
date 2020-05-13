@@ -1,0 +1,2 @@
+// Erreur (initramfs) (sda1 : disque de partition)
+fsck -y /dev/sda1
