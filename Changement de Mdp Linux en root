@@ -5,7 +5,7 @@ interrompre le lancement de grub :- "e" pour editer le fichier de demarrage
 - aller à la ligne ou "linux16" ou "linuxfi" est noté (Défiler plus bas),
 - effacer "rhgb" et "quiet" pour desactiver le mode graphik silencieux,
 
-- écrire "init=/bin/bash" à la fin de la ligne,
+- écrire : init=/bin/bash à la fin de la ligne,
 
 - ctrl e pour redemarrer la session sans demarrer le deamon init,
 
