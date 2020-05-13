@@ -11,4 +11,4 @@ interrompre le lancement de grub :- "e" pour editer le fichier de demarrage
 
 - puis ctrl x (ou F10) pour redemarrer.ensuite faire : mount -o remount, rw /
 
-et  passwd pour mettre un nouveau passeword
+- et taper : passwd root (pour mettre un nouveau passeword)
