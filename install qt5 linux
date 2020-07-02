@@ -1,5 +1,6 @@
 
 /* Par ETAPES *********************************************************************************************** */
+
 // https://www.qt.io/offline-installers (Linux/Windows) // Etape 1 ou
 // https://download.qt.io/official_releases/qt/5.14/5.14.0 // Etape 1
 
@@ -13,6 +14,8 @@ sudo apt-get install qtcreator // Etape 5
 sudo apt-get install sdk // Etape 6
 
 // https://download.qt.io/archive/qt/5.13/5.13.2/ // Etape 7 (Sinon : aucun kit trouvé). Changer selon version : 5.13
+
+
 
 /* Liens utiles ********************************************************************************************* */
 
