@@ -5,3 +5,5 @@ apt install Kde-plasma-desktop
 
 // Voir la liste dispo (Debian)
 apt-cache search Kde
+
+// Installer le bureau 
