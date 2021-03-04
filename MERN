@@ -2,3 +2,13 @@
 npm init -y
 npm install express cors mongoose dotenv
 npm install -g nodemon // reload, automatically.
+
+
+
+
+
+
+// Erreurs
+An unhandled exception occurred: Cannot find module '@angular-devkit/build-angular/package.json'
+  (node_modules inexistant)
+-> npm install --save-dev @angular-devkit/build-angular 
