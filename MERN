@@ -20,7 +20,7 @@ npm install -g nodemon // reload, automatically.
 npm install express --save
 
 
-// Apollon (https://www.apollographql.com/docs/)
+// Apollo (https://www.apollographql.com/docs/)
 
 
 
