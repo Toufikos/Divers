@@ -9,7 +9,7 @@ http://expressjs.com/en/starter/installing.html
 
 
 
-// Backend
+// Backend (Node/Express/Mongo)
 npm init -y
 npm install express cors mongoose dotenv
 npm install -g nodemon // reload, automatically.
