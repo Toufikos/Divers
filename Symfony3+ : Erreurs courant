@@ -1,8 +1,12 @@
 
-erreur : An exception occurred in driver: could not find driver
+Erreur : An exception occurred in driver: could not find driver
 Ne pas oublier (c'est nouveaux) 
 Dans le fichier .env
- DATABASE_URL="mysql://root:@127.0.0.1:3306/DB_NAME?serverVersion=5.7"
+ DATABASE_URL="mysql://root:@127.0.0.1:3306/DB_NAME?serverVersion=mariadb-10.4.11"
  
+ 
+Erreur : The metadata storage is not up to date, please run the sync-metadata-storage command to fix this issue.
+DATABASE_URL="mysql://root:@127.0.0.1:3306/DB_NAME?serverVersion=mariadb-10.4.11"
+    (Changer serverVersion=5.7 à serverVersion=mariadb-10.4.11)
  
  
