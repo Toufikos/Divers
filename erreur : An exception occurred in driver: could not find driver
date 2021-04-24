@@ -1,0 +1,5 @@
+
+erreur : An exception occurred in driver: could not find driver
+Ne pas oublier (c'est nouveaux) 
+Dans le fichier .env
+ DATABASE_URL="mysql://root:@127.0.0.1:3306/DB_NAME?serverVersion=5.7"
