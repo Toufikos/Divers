@@ -17,7 +17,7 @@ sudo apt-get install sdk // Etape 6
 
 // Si erreur de file 'Makefile' has modification time' : installer Cmake à partir du Gestionnaire de logiciel.
 
-
+// Si erreur (Debian) Fatal error : gl/glut.h : sudo apt-get install freeglut3-dev (3/05/22)
 
 /* Liens utiles ********************************************************************************************* */
 
