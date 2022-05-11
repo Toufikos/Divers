@@ -19,6 +19,9 @@ sudo apt-get install sdk // Etape 6
 
 // Si erreur (Debian) Fatal error : gl/glut.h : sudo apt-get install freeglut3-dev (3/05/22)
 
+Xampp :
+1. chmod +x xampp-linux-x64-7.2.9-0-installer.run
+2. sudo ./xampp-linux-x64-7.2.9-0-installer.run
 /* Liens utiles ********************************************************************************************* */
 
 // https://doc.qt.io/qt-5/linux.html 
