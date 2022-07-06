@@ -1,0 +1,4 @@
+// Installer Xampp
+
+1. chmod +x xampp-linux-x64-7.2.9-0-installer.run
+2. sudo ./xampp-linux-x64-7.2.9-0-installer.run
